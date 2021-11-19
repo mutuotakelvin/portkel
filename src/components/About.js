@@ -8,7 +8,7 @@ const About = () => {
           <h1 className="title-font sm:text-4xl text-3xl mb-4 font-medium text-white">
             Hi, I'm kelvin.
             <br className="hidden lg:inline-block" />I love to build amazing
-            apps.
+            web apps.
           </h1>
           <p className="mb-8 leading-relaxed">
             As a web developer, my superpowers occur behind the scenes to make websites look great, perform well and faster
