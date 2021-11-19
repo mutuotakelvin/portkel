@@ -11,9 +11,10 @@ const About = () => {
             apps.
           </h1>
           <p className="mb-8 leading-relaxed">
-            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Qui
-            laborum quasi, incidunt dolore iste nostrum cupiditate voluptas?
-            Laborum, voluptas natus?
+            As a web developer, my superpowers occur behind the scenes to make websites look great, perform well and faster
+            with impeccable user experience. Currently work as a Front End Developer,but i started as a Full Stack Developer 
+            because i wanted to understand all the development of the web.
+
           </p>
           <div className="flex justify-center">
             <a
