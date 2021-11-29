@@ -36,17 +36,17 @@ export const projects = [
 export const testimonials = [
   {
     quote:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa quod necessitatibus quidem impedit facilis? Distinctio laboriosam veritatis recusandae minus. Voluptatum accusantium hic laudantium soluta ea sapiente cupiditate officia maiores itaque.",
-    image: "./vin.jpeg",
-    name: "Vincent Kipkurui",
-    company: "Vintech",
+      "Kelvin is a very bright guy, with great passion in the Technology field. He's open to learning by word and by observation. He's one dedicated to what he truly loves and technology being part of him, he loves it. He's sharp , quick in solutions and never gives up. It's not just talent it's a passion that has driven purpose out of him.",
+    image: "./mwai.jpeg",
+    name: "Mwai",
+    company: "***",
   },
   {
     quote:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa quod necessitatibus quidem impedit facilis? Distinctio laboriosam veritatis recusandae minus. Voluptatum accusantium hic laudantium soluta ea sapiente cupiditate officia maiores itaque.",
-    image: "./tom.jpg",
-    name: "Thomas Mwaniki",
-    company: "Mwanikis.io",
+      "Kelvin Mutuota is an industrious man, committed to purpose and efficacy in service. It would be deemed selfish if I didn't mention his dire love for technology: coding/programming. For the while I have worked with him, he proves to be a worthwhile character besides his slight flaws that are overshadowed by his tranquility and focus at work. I do recommend him for gigs/jobs/projects, for I have seen his work.",
+    image: "./dero.jpeg",
+    name: "Derick Pamba",
+    company: "***",
   },
 ];
 
