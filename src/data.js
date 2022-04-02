@@ -1,35 +1,35 @@
 export const projects = [
   {
-    title: "React Reserve",
-    subtitle: "MERN Stack",
+    title: "Duka",
+    subtitle: "Next js e-commerce app",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
+      "An e-cormmerce web app that allows users to purchase product.",
     image: "./project-1.gif",
-    link: "#",
+    link: "https://e-duka-mutuotakelvin.vercel.app/",
   },
   {
-    title: "React Tracks",
-    subtitle: "React and Python",
+    title: "Markdown Notes App",
+    subtitle: "React,Nanoid,react-mde,react-split and showdown",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
+      "A note taking application that allows users to take notes in Markdown.",
     image: "./project-2.gif",
-    link: "#",
+    link: "https://notesapp-chi.vercel.app/",
   },
   {
-    title: "DevChat",
-    subtitle: "React and Firebase",
+    title: "Pizza Delivery API",
+    subtitle: "Django,postgresql database,djangorestapi and swagger",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-    image: "./project-3.gif",
-    link: "#",
+      "Pizza Delivery api well documented using swagger.",
+    image: "./project-3.png",
+    link: "https://pizza-delivery-api-with-django.herokuapp.com/docs/",
   },
   {
-    title: "Epic Todo App",
-    subtitle: "React Hooks",
+    title: "TICTACTOE",
+    subtitle: "React APP",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
+      "A titctactoe game app",
     image: "./project-4.gif",
-    link: "#",
+    link: "https://titactoegame.surge.sh/",
   },
 ];
 
@@ -58,5 +58,6 @@ export const skills = [
   "GraphQL",
   "Figma",
   "python",
-  "Django"
+  "Django",
+  "Angular2+",
 ];
